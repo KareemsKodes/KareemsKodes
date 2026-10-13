@@ -8,6 +8,8 @@ Practical business software, custom applications, connected workflows, data oper
 
 [Explore Elkwai Solutions](https://elkwai.com/) · [Business jobs](https://elkwai.com/automated-services) · [Project examples](https://elkwai.com/work-samples) · [Discuss a project](https://elkwai.com/contact)
 
+**Latest launch, October 13, 2026:** [Free import mapping, supplier catalog checks and source-linked bid review](https://github.com/KareemsKodes/KareemsKodes/releases/tag/business-tools-launch-20261013). [Read the Contra launch post](https://contra.com/community/24yjaC6p-free-browser-local-tools-for-data-mapping).
+
 ## Free Business Tools
 
 These tools process supported inputs in your browser. No account or file upload is required.
